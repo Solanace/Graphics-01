@@ -1,2 +1,2 @@
-# Graphics-01
+# Graphics-W01
 Work 01: Imagine all the pixels...
