@@ -6,7 +6,6 @@ def create(width, height):
 		s += "\n"
 	return s;
 
-print create(5, 5)
 fd = open("image.ppm", "w")
 fd.write(create(700, 700))
 fd.close()
